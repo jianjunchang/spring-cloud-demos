@@ -1,0 +1,3 @@
+myConfig:
+  serverName: 测试服务
+  serverPort: 12345
